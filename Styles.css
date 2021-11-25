@@ -9,8 +9,7 @@ body{
   .left{ display:inline-block;
     position: absolute;
     left:2px;
-    top:9px;
-    border: 2px solid rgb(248, 33, 33); 
+    top:9px; 
   }
   .left img{
     width: 100px;
@@ -22,7 +21,6 @@ body{
     display: block;
     width: 36%;
     margin: 9px auto;
-    border: 2px solid yellow;
   }
   .navbar{
       display: inline-block;
@@ -48,7 +46,6 @@ body{
     position: absolute;
     right:15px;
     top:9px;
-    border: 2px solid green;
   } 
 
   .btn{
@@ -57,8 +54,6 @@ body{
     background-color: black;
     color: white;
     padding: 4px 16px;
-    border: 2px solid rgb(131, 119, 119);
-    border-radius: 10px;
     font-size: 20px;
     cursor: pointer;`
   }
@@ -68,11 +63,10 @@ body{
 
 
   .container{
-    border: 2px solid white;
     margin: 106px 80px;
     padding: 75px;
     width: 33%;
-    border-radius: 28px;
+
   }
 
   .form-group input{
@@ -81,10 +75,8 @@ body{
         display: block;
         width: 508px;
         padding: 1px;
-        border: 2px solid black;
         margin: 11px auto;
         font-size: 25px;
-        border-radius: 8px;
     
   }
   .container h1 {
