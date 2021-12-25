@@ -55,7 +55,7 @@ body{
     color: white;
     padding: 4px 16px;
     font-size: 20px;
-    cursor: pointer;`
+    cursor: pointer;
   }
   .btn:hover {
     background-color: rgb(31, 30, 30);
